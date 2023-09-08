@@ -26,7 +26,7 @@ git clone https://github.com/riotrip/aduan-masyarakat-beta.git
 ```
 2. Pindah ke direktori proyek:
 ```
-cd repo-aplikasi-pengaduan
+cd aduan-masyarakat-beta
 ```
 3. Salin file .env.example menjadi .env:
 ```
